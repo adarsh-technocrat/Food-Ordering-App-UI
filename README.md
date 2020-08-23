@@ -10,4 +10,4 @@ We design two pages one is the home page and another one is details page that wi
 
 ### Food App Final UI
 
-![App UI](/ui.png)
+![Food ordering app ui-page-001](https://user-images.githubusercontent.com/47661086/90973285-49f8da00-e53e-11ea-8dc0-0dfb44730bf0.jpg)
